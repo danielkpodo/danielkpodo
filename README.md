@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Narh</h1>
 <h3 align="center">A passionate Software Developer and a Data Scientist having experience building web applications with JavaScript / React / Node / Python and Flask</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkpodo" alt="danielkpodo" /> </p>
-
 - 🔭 I’m currently working on **a mern app that keeps track of useful dev resources**
 
 - 🌱 I’m currently learning **Data Science and cloud computing**
