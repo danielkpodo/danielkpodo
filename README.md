@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Enterprise Applications**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Mobile Application Development**
 
 - 👯 I’m looking to collaborate on **React, node, python**
 
