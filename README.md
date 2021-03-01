@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kpododanielnarh@gmail.com**
 
-- ⚡ Fun fact **I love to code without music**
+- ⚡ Fun fact **I love to code with classical music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
