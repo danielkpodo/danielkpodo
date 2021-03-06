@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
-- 👯 I’m looking to collaborate on **React, node, python**
+- 👯 I’m looking to collaborate on **React, Node, Python and Machine learning**
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
