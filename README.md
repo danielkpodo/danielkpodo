@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/narhkpodo" target="blank"><img src="https://img.shields.io/twitter/follow/narhkpodo?logo=twitter&style=for-the-badge" alt="narhkpodo" /></a> </p>
 
-- 🔭 I’m currently working on **Enterprise Applications**
+- 🔭 I’m currently working on **Enterprise Softwares**
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
