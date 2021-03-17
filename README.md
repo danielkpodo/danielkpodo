@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
-- 💬 Ask me about **React, Node, Python, Testing, Web Security and Data Science**
+- 💬 Ask me about **React, Node, Python, Testing, Web Security, Automation, and Data Science**
 
 - 📫 How to reach me **kpododanielnarh@gmail.com**
 
